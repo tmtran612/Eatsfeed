@@ -1,4 +1,4 @@
-# RestaurantExplorer (Eatsfeed)
+# Eatsfeed
 
 A modern restaurant discovery app built with Next.js, FastAPI, Google Places API, and OpenAI for AI-powered review summaries.
 
